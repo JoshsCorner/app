@@ -1,2 +1,1 @@
-# app
-This is my first app
+this is my first app with a no-code solution lol
